@@ -1,7 +1,9 @@
 SurpriseRA
 ------
 
-Description coming soon, we won't spoil the surprise :P
+A thank you photo collage webste dedicated to Rosana Ardilla as she transits from Reps Program Manager to other opportunities. 
+👑 🎁🎉 
+Presented from here: https://mozilla.github.io/Reps/ThankYouRosana/
 
 ------
 To Do:
